@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/wjSkEVCFo=",
+  "dgSpecHash": "n5C923b8jWU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GREGORY\\Documents\\Genie Logiciel\\Programmation\\Blazor\\Client\\MyFirstBlazorApp\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
+  "projectFilePath": "C:\\Users\\GREGORY\\Documents\\Genie Logiciel\\Programmation\\Blazor Training\\Client\\MyFirstBlazorApp\\BlazorApp1\\Server\\BlazorApp1.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GREGORY\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.20\\microsoft.aspnetcore.authorization.7.0.20.nupkg.sha512",
     "C:\\Users\\GREGORY\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.20\\microsoft.aspnetcore.components.7.0.20.nupkg.sha512",
