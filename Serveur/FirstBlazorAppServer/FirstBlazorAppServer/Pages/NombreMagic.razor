@@ -1,0 +1,64 @@
+﻿@page "/nombre"
+
+@inherits NombreMagicBase
+
+
+
+
+<h3> Jeu de nombres </h3>
+
+
+
+<div>
+    
+    @if (gameWon.HasValue)
+    {
+
+        @if (gameWon.Value)
+        {
+            <h2> Vous avez gagné 👍 </h2>
+        }
+        else
+        {
+            <h2> 
+                Vous avez perdu 😭
+                Mais c'est pourtant facile 🤬
+                Le nombre qu'i fallait deviner c'est le @NbMagic
+            </h2>
+        }
+
+        <button class="btn btn-primary" @onclick="() => ReinitGame()"> Rejouer </button>
+
+    }
+    else
+    {
+
+        <div>
+
+            <h4> Deviner le nombre entre et @NbMax </h4>
+
+            <input type="number" min="0" @bind="value" />
+
+            <button class="btn btn-primary" @onclick="()=> TestNumber() "> Tester  </button>
+
+            <div>
+
+                @for (int i = 0; i < @NbRemainingLife; i++)
+                {
+
+                    <span> ❤️  &nbsp; </span>
+
+                }
+
+            </div>
+
+        </div>
+
+    }
+
+</div>
+
+
+
+
+

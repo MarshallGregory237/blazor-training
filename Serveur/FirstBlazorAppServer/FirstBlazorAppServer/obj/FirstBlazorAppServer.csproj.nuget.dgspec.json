@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\GREGORY\\Documents\\Genie Logiciel\\Programmation\\Blazor\\Serveur\\FirstBlazorAppServer\\FirstBlazorAppServer\\FirstBlazorAppServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\GREGORY\\Documents\\Genie Logiciel\\Programmation\\Blazor\\Serveur\\FirstBlazorAppServer\\FirstBlazorAppServer\\FirstBlazorAppServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GREGORY\\Documents\\Genie Logiciel\\Programmation\\Blazor\\Serveur\\FirstBlazorAppServer\\FirstBlazorAppServer\\FirstBlazorAppServer.csproj",
+        "projectName": "FirstBlazorAppServer",
+        "projectPath": "C:\\Users\\GREGORY\\Documents\\Genie Logiciel\\Programmation\\Blazor\\Serveur\\FirstBlazorAppServer\\FirstBlazorAppServer\\FirstBlazorAppServer.csproj",
+        "packagesPath": "C:\\Users\\GREGORY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GREGORY\\Documents\\Genie Logiciel\\Programmation\\Blazor\\Serveur\\FirstBlazorAppServer\\FirstBlazorAppServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GREGORY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/fs2exuwLP54npVrRb7nRHMlPPh2dfbZVpNjOQuv6thZmwWKLDo/api": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\bin\Debug\net7.0\BlazorApp1.Shared.deps.json
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\bin\Debug\net7.0\BlazorApp1.Shared.dll
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\bin\Debug\net7.0\BlazorApp1.Shared.pdb
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.AssemblyInfoInputs.cache
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.AssemblyInfo.cs
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.csproj.CoreCompileInputs.cache
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.dll
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\obj\Debug\net7.0\refint\BlazorApp1.Shared.dll
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.pdb
+C:\Users\GREGORY\Documents\Genie Logiciel\Programmation\Blazor\Client\MyFirstBlazorApp\BlazorApp1\Shared\obj\Debug\net7.0\ref\BlazorApp1.Shared.dll
